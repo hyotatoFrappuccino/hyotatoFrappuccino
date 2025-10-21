@@ -9,3 +9,11 @@
 <br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjkiln)](https://solved.ac/hjkiln/)
 
+### Project
+- 관생자치회 통합관리시스템(25.03.05~운영 및 유지보수 중) [Github(backend)](https://github.com/hyotatoFrappuccino/dormManagementSystem) [Github(frontend)](https://github.com/hyotatoFrappuccino/dormManagementSystem-front)
+  - Spring Boot, Spring JPA, Spring Security(OAuth2, JWT), AWS EC2, Docker, Prometheus, Grafana
+- JobNote : 취준생을 위한 이력서 및 일정 관리 서비스(25.07.20~25.09.07) [Github](https://github.com/Side-Project-JobNote/Backend)
+  - Spring Boot, Spring JPA, Spring Security, AWS S3, Oracle Cloud, Swagger
+
+### Etc
+- 정보처리기사, SQLD
