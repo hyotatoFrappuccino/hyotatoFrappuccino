@@ -10,6 +10,12 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjkiln)](https://solved.ac/hjkiln/)
 
 ### Project
+- 틈틈잇 : AI가 만들어주는 일일 퀴즈(25.12~26.1, 운영 및 유지보수 중) [Github](https://github.com/TeumTeumEat/TeumTeumEat-BackEnd)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/kr/app/%ED%8B%88%ED%8B%88%EC%9E%87/id6757255726)
+[![Google Play](https://img.shields.io/badge/Google_Play-41FE8D?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.teumteumeat.teumteumeat&hl=ko)
+
+  <img width="2048" height="1000" alt="image" src="https://github.com/user-attachments/assets/ba125004-1efd-49cc-8bf2-0b6b10fe7a04" />
+
 - 관생자치회 통합관리시스템(25.03.05~운영 및 유지보수 중) [Github(backend)](https://github.com/hyotatoFrappuccino/dormManagementSystem) [Github(frontend)](https://github.com/hyotatoFrappuccino/dormManagementSystem-front)
   - Spring Boot, Spring JPA, Spring Security(OAuth2, JWT), AWS EC2, Github Actions, Docker, Prometheus, Grafana
 - JobNote : 취준생을 위한 이력서 및 일정 관리 서비스(25.07.20~25.09.07) [Github](https://github.com/Side-Project-JobNote/Backend)
