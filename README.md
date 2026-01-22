@@ -18,6 +18,8 @@
 
 - 관생자치회 통합관리시스템(25.03.05~운영 및 유지보수 중) [Github(backend)](https://github.com/hyotatoFrappuccino/dormManagementSystem) [Github(frontend)](https://github.com/hyotatoFrappuccino/dormManagementSystem-front)
   - Spring Boot, Spring JPA, Spring Security(OAuth2, JWT), AWS EC2, Github Actions, Docker, Prometheus, Grafana
+  <img width="1167" height="923" alt="image" src="https://github.com/user-attachments/assets/9a2e422d-47c1-46f9-8124-80677b233c04" />
+
 - JobNote : 취준생을 위한 이력서 및 일정 관리 서비스(25.07.20~25.09.07) [Github](https://github.com/Side-Project-JobNote/Backend)
   - Spring Boot, Spring JPA, Spring Security, AWS S3, Oracle Cloud, Github Actions, Swagger
 
