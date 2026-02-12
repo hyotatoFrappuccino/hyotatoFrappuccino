@@ -10,14 +10,15 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjkiln)](https://solved.ac/hjkiln/)
 
 ### Project
-- 틈틈잇 : AI가 만들어주는 일일 퀴즈(25.12~26.1, 운영 및 유지보수 중) [Github](https://github.com/TeumTeumEat/TeumTeumEat-BackEnd)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/kr/app/%ED%8B%88%ED%8B%88%EC%9E%87/id6757255726)
-[![Google Play](https://img.shields.io/badge/Google_Play-41FE8D?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.teumteumeat.teumteumeat&hl=ko)
+- 틈틈잇 : AI가 만들어주는 일일 퀴즈(25.12~26.1, 운영 및 유지보수 중) [Github](https://github.com/TeumTeumEat/TeumTeumEat-BackEnd), [기여내역](https://github.com/TeumTeumEat/TeumTeumEat-BackEnd/pulls?q=is%3Apr+is%3Aclosed+assignee%3AhyotatoFrappuccino)
+
+  [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/kr/app/%ED%8B%88%ED%8B%88%EC%9E%87/id6757255726)
+  [![Google Play](https://img.shields.io/badge/Google_Play-41FE8D?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.teumteumeat.teumteumeat&hl=ko)
 
   <img width="2048" height="1000" alt="image" src="https://github.com/user-attachments/assets/ba125004-1efd-49cc-8bf2-0b6b10fe7a04" />
 
-- 관생자치회 통합관리시스템(25.03.05~운영 및 유지보수 중) [Github(backend)](https://github.com/hyotatoFrappuccino/dormManagementSystem) [Github(frontend)](https://github.com/hyotatoFrappuccino/dormManagementSystem-front)
-  - Spring Boot, Spring JPA, Spring Security(OAuth2, JWT), AWS EC2, Github Actions, Docker, Prometheus, Grafana
+- 관생자치회 통합관리시스템(25.3~25.6,운영 및 유지보수 중) [Github(BE)](https://github.com/hyotatoFrappuccino/dormManagementSystem) [Github(FE)](https://github.com/hyotatoFrappuccino/dormManagementSystem-front)
+  - [1인 프로젝트] Spring Boot, Spring JPA, Spring Security(OAuth2, JWT), AWS EC2, Github Actions, Docker, Prometheus, Grafana
   <img width="1167" height="923" alt="image" src="https://github.com/user-attachments/assets/9a2e422d-47c1-46f9-8124-80677b233c04" />
 
 - 이삿찜 : AI 이사 자동 견적 서비스(26.01~26.02, 구글 AI 부트캠프) [Github](https://github.com/FitTruck/Isajjim-Backend)
