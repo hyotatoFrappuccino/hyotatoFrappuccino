@@ -10,6 +10,10 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjkiln)](https://solved.ac/hjkiln/)
 
 ### Project
+- 이삿찜 : AI 이사 자동 견적 서비스(26.01~26.02, 구글 AI 부트캠프) [Github](https://github.com/FitTruck/Isajjim-Backend)
+  - **🏆[대상] 2026 전국 Google Cloud 기반 AI 융합 경진대회** 
+  - 작성 중..
+
 - 틈틈잇 : AI가 만들어주는 일일 퀴즈(25.12~26.1, 운영 및 유지보수 중) [Github](https://github.com/TeumTeumEat/TeumTeumEat-BackEnd), [기여내역](https://github.com/TeumTeumEat/TeumTeumEat-BackEnd/pulls?q=is%3Apr+is%3Aclosed+assignee%3AhyotatoFrappuccino)
 
   [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/kr/app/%ED%8B%88%ED%8B%88%EC%9E%87/id6757255726)
@@ -20,9 +24,6 @@
 - 관생자치회 통합관리시스템(25.3~25.6,운영 및 유지보수 중) [Github(BE)](https://github.com/hyotatoFrappuccino/dormManagementSystem) [Github(FE)](https://github.com/hyotatoFrappuccino/dormManagementSystem-front)
   - [1인 프로젝트] Spring Boot, Spring JPA, Spring Security(OAuth2, JWT), AWS EC2, Github Actions, Docker, Prometheus, Grafana
   <img width="1167" height="923" alt="image" src="https://github.com/user-attachments/assets/9a2e422d-47c1-46f9-8124-80677b233c04" />
-
-- 이삿찜 : AI 이사 자동 견적 서비스(26.01~26.02, 구글 AI 부트캠프) [Github](https://github.com/FitTruck/Isajjim-Backend)
-  - 작성 중..
 
 - JobNote : 취준생을 위한 이력서 및 일정 관리 서비스(25.07.20~25.09.07) [Github](https://github.com/Side-Project-JobNote/Backend)
   - Spring Boot, Spring JPA, Spring Security, AWS S3, Oracle Cloud, Github Actions, Swagger
