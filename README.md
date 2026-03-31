@@ -11,7 +11,7 @@
 
 ### Project
 - 이삿찜 : AI 이사 자동 견적 서비스(26.01~26.02, 구글 AI 부트캠프) [Github](https://github.com/FitTruck/Isajjim-Backend)
-  - **🏆[대상] 2026 전국 Google Cloud 기반 AI 융합 경진대회** 
+  - **🏆[대상] 2026 전국 Google Cloud 기반 AI 융합 경진대회**  [#1](https://cse.kangwon.ac.kr/cse/community/news.do?mode=view&articleNo=551465) [#2](https://www.pressian.com/pages/articles/2026022317460997947?utm_source=naver&utm_medium=search)
   - 작성 중..
 
 - 틈틈잇 : AI가 만들어주는 일일 퀴즈(25.12~26.1, 운영 및 유지보수 중) [Github](https://github.com/TeumTeumEat/TeumTeumEat-BackEnd), [기여내역](https://github.com/TeumTeumEat/TeumTeumEat-BackEnd/pulls?q=is%3Apr+is%3Aclosed+assignee%3AhyotatoFrappuccino)
