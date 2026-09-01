@@ -16,7 +16,7 @@
 
 - 틈틈잇 : AI가 만들어주는 일일 퀴즈(25.12~26.1, 운영 및 유지보수 중) [Github](https://github.com/TeumTeumEat/TeumTeumEat-BackEnd), [기여내역](https://github.com/TeumTeumEat/TeumTeumEat-BackEnd/pulls?q=is%3Apr+is%3Aclosed+assignee%3AhyotatoFrappuccino)
   - **🏆[수상] 유아이볼 사이드 프로젝트 지원금 이벤트[(주)유아이볼]**  [#1](https://www.instagram.com/p/DY5_z4fEk51) [#2](https://uibowl.io/name/%ED%8B%88%ED%8B%88%EC%9E%87)
-  - 누적 가입자 수 370+
+  - 누적 가입자 수 870+명 달성, PEAK DAU 137명(GA 기준), 해당 일자 퀴즈 생성 및 풀이까지의 전환율 64%
 
   [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/kr/app/%ED%8B%88%ED%8B%88%EC%9E%87/id6757255726)
   [![Google Play](https://img.shields.io/badge/Google_Play-41FE8D?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.teumteumeat.teumteumeat&hl=ko)
