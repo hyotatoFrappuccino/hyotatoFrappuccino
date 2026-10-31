@@ -3,9 +3,9 @@
   - **🏆[대상] 2026 전국 Google Cloud 기반 AI 융합 경진대회**  [보도자료](https://cse.kangwon.ac.kr/cse/community/news.do?mode=view&articleNo=551465) [기사](https://www.pressian.com/pages/articles/2026022317460997947)
   - 2026 한국컴퓨터종합학술대회 (KCC 2026) 강원대학교 SW중심대학사업단 워크숍 발표
 
-- 틈틈잇 : AI가 만들어주는 일일 퀴즈(25.12~26.1, 운영 및 유지보수 중) [Github](https://github.com/TeumTeumEat/TeumTeumEat-BackEnd), [기여내역](https://github.com/TeumTeumEat/TeumTeumEat-BackEnd/pulls?q=is%3Apr+is%3Aclosed+assignee%3AhyotatoFrappuccino)
+- 틈틈잇 : AI가 만들어주는 일일 퀴즈(25.12 ~ 현재) [Github](https://github.com/TeumTeumEat/TeumTeumEat-BackEnd), [기여내역](https://github.com/TeumTeumEat/TeumTeumEat-BackEnd/pulls?q=is%3Apr+is%3Aclosed+assignee%3AhyotatoFrappuccino)
   - **🏆[수상] 유아이볼 사이드 프로젝트 지원금 이벤트[(주)유아이볼]**  [#1](https://www.instagram.com/p/DY5_z4fEk51) [#2](https://uibowl.io/name/%ED%8B%88%ED%8B%88%EC%9E%87)
-  - 누적 가입자 수 1200명, Peak DAU 137명 / 최근 평균 DAU 88명 / 주 5일 이상 활성 사용자 150+ 명 확보 (GA 기준)
+  - 누적 가입자 수 1,300명
   - [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/kr/app/%ED%8B%88%ED%8B%88%EC%9E%87/id6757255726) [![Google Play](https://img.shields.io/badge/Google_Play-41FE8D?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.teumteumeat.teumteumeat&hl=ko)
     <img width="2048" height="1000" alt="image" src="https://github.com/user-attachments/assets/ba125004-1efd-49cc-8bf2-0b6b10fe7a04" />
 
